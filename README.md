@@ -1,7 +1,7 @@
 ## Create zip
 
 ```bash
-zip -r module.zip . -x '*.git*' 'README.md'
+wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.com/topjohnwu/Magisk/master/scripts/module_installer.sh && zip magisk-module-unifiednlp -9r *
 ```
 
 ## Thanks
