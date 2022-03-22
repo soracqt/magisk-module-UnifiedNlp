@@ -18,4 +18,6 @@ Install this module
 Install XposedUnifiedNlp
 https://repo.xposed.info/module/de.r3w6.xposedunifiednlp
 
- reboot
+Check System Framework & UnifiedNlp
+
+reboot
