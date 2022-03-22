@@ -7,3 +7,15 @@ wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.
 ## Thanks
 
 https://github.com/WeAreFairphone/flashable-zip_microG
+
+## Installation with gapps
+
+Install Lsposed
+https://github.com/LSPosed/LSPosed/releases
+
+Install this module
+
+Install XposedUnifiedNlp
+https://repo.xposed.info/module/de.r3w6.xposedunifiednlp
+
+ reboot
