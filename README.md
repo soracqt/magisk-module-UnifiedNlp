@@ -10,14 +10,14 @@ https://github.com/WeAreFairphone/flashable-zip_microG
 
 ## Installation with gapps
 
-Install Lsposed
+- Install Lsposed
 https://github.com/LSPosed/LSPosed/releases
 
-Install this module
+- Install this module
 
-Install XposedUnifiedNlp
+- Install XposedUnifiedNlp
 https://repo.xposed.info/module/de.r3w6.xposedunifiednlp
 
-Check System Framework & UnifiedNlp
+- Check System Framework & UnifiedNlp
 
-reboot
+- reboot
