@@ -1,7 +1,7 @@
 id=magisk-module-unifiednlp
 name=UnifiedNlp Installer
-version=0.0.1
-versionCode=001
+version=1.0.0
+versionCode=100
 author=soracat
 description=install UnifiedNlp systemlessly
 
